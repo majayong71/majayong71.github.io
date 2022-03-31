@@ -3,8 +3,7 @@ layout: post
 title:  " 데이터 크롤링 & DB에 담기 [ & 용어정리] "
 ---
 
-※ 톰캣 ※ 
-
+# ※ 톰캣 ※ 
 ※ context : 다른 경로에 있더라도 연결이 되게끔 하는 기술
 (출처 : https://www.youtube.com/watch?v=GpHOvj3XVBU&list=PLq8wAnVUcTFVOtENMsujSgtv2TOsMy8zd&index=6)
 
